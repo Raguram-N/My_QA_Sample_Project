@@ -1,4 +1,4 @@
-# 📄 Test Plan for GoQuant Assignment
+# 📄 My_QA_Sample_Project
 
 **Title:** Test Plan – Buggy Car Rating Application  
 **Author:** Raguram Narayanaswamy  
@@ -77,7 +77,6 @@ In addition to finding bugs, this testing exercise also aims to provide UX recom
 - [Automation Suite](https://github.com/Raguram-N/-GoQuant_assignment/blob/main/goquant-assignment.zip)
 - [Performance Test Report](https://github.com/Raguram-N/-GoQuant_assignment/blob/main/Performance%20Test%20Report.md)
 - [UX Optimization Guide](https://github.com/Raguram-N/-GoQuant_assignment/blob/main/UX%20Optimization%20Guide.md)  
-- Demo Video  
 
 ---
 
@@ -108,4 +107,4 @@ In addition to finding bugs, this testing exercise also aims to provide UX recom
 ## 10. Approval
 - **Tester:** Raguram Narayanaswamy  
 - **Reviewed by:** [To be filled by reviewer]  
-# My_QA_Sample_Project
+
