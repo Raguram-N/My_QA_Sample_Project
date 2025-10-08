@@ -109,3 +109,7 @@ In addition to finding bugs, this testing exercise also aims to provide UX recom
 ## 10. Approval
 - **Tester:** Raguram Narayanaswamy  
 - **Reviewed by:** [To be filled by reviewer]  
+
+
+### 1️⃣ <a href="https://github.com/Raguram-N/AI_Manual_Tester/blob/main/README.md" target="_blank">Just Click – AI Manual Tester</a>
+> *An AI-powered tool that reads test steps from Word files, executes Selenium-based tests, captures screenshots on failures, and generates intelligent test reports — reducing manual testing effort by 70%.*
